@@ -1,0 +1,245 @@
+[
+  {
+    "id": "DEMO-REQ-001",
+    "category": "Requirement",
+    "title": "Building Energy Requirement",
+    "description": "Synthetic requirement example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "energy",
+      "building",
+      "baseline"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-REQ-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-REQ-002",
+    "category": "Requirement",
+    "title": "Indoor Comfort Requirement",
+    "description": "Synthetic requirement example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "comfort",
+      "indoor",
+      "air"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-REQ-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-REQ-003",
+    "category": "Requirement",
+    "title": "Lighting Quality Requirement",
+    "description": "Synthetic requirement example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "lighting",
+      "visual",
+      "comfort"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-REQ-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PER-001",
+    "category": "Performance",
+    "title": "Thermal Performance Target",
+    "description": "Synthetic performance example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "thermal",
+      "energy",
+      "target"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PER-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PER-002",
+    "category": "Performance",
+    "title": "Indoor Air Quality Target",
+    "description": "Synthetic performance example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "air",
+      "quality",
+      "ventilation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PER-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PER-003",
+    "category": "Performance",
+    "title": "Lighting Performance Target",
+    "description": "Synthetic performance example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "lighting",
+      "illuminance"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PER-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-STR-001",
+    "category": "Strategy",
+    "title": "Envelope Improvement Strategy",
+    "description": "Synthetic strategy example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "envelope",
+      "insulation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-STR-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-STR-002",
+    "category": "Strategy",
+    "title": "Ventilation Improvement Strategy",
+    "description": "Synthetic strategy example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "ventilation",
+      "air",
+      "quality"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-STR-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-STR-003",
+    "category": "Strategy",
+    "title": "Efficient Lighting Strategy",
+    "description": "Synthetic strategy example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "lighting",
+      "efficiency"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-STR-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PRD-001",
+    "category": "Product/System",
+    "title": "Reference Insulation Product",
+    "description": "Synthetic product/system example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "product",
+      "insulation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PRD-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PRD-002",
+    "category": "Product/System",
+    "title": "Reference Ventilation System",
+    "description": "Synthetic product/system example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "system",
+      "ventilation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PRD-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-PRD-003",
+    "category": "Product/System",
+    "title": "Reference Lighting System",
+    "description": "Synthetic product/system example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "system",
+      "lighting"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-PRD-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-SPC-001",
+    "category": "Specification",
+    "title": "Insulation Material Specification",
+    "description": "Synthetic specification example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "spec",
+      "insulation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-SPC-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-SPC-002",
+    "category": "Specification",
+    "title": "Ventilation Equipment Specification",
+    "description": "Synthetic specification example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "spec",
+      "ventilation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-SPC-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-SPC-003",
+    "category": "Specification",
+    "title": "Lighting Equipment Specification",
+    "description": "Synthetic specification example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "spec",
+      "lighting"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-SPC-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-BOQ-001",
+    "category": "BOQ/Cost",
+    "title": "Insulation Work Item",
+    "description": "Synthetic boq/cost example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "boq",
+      "cost",
+      "insulation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-BOQ-001",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-BOQ-002",
+    "category": "BOQ/Cost",
+    "title": "Ventilation Work Item",
+    "description": "Synthetic boq/cost example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "boq",
+      "cost",
+      "ventilation"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-BOQ-002",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  },
+  {
+    "id": "DEMO-BOQ-003",
+    "category": "BOQ/Cost",
+    "title": "Lighting Work Item",
+    "description": "Synthetic boq/cost example for search and detail verification; not approved engineering information.",
+    "keywords": [
+      "boq",
+      "cost",
+      "lighting"
+    ],
+    "source_ref": "SYNTHETIC-SOURCE-BOQ-003",
+    "version_label": "DEMO-V1",
+    "data_status": "SYNTHETIC"
+  }
+]
